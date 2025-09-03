@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+description: "「Our free will is going to our destiny.」"
+permalink: /
+---
 Hey, I am Pingping, Wang. Now, I am a PhD student at TU Wien, working in field of sustainability and process systems engineering. My research work is focusing on the integration of carbon capture and storage/utilization (CCS/CCU) into current and future industrial infrastructures. 
 
 I am curious about the evolution and comparisons of different social-economic systems and human behaviour. It can help me better understand the fairness in decarbonization and sustainable development. Furthermore, I am also interested in quantitatively project the scenarios of future. 
