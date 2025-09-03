@@ -10,11 +10,12 @@ I studied BSc, chemical engineering at Southwest Petroleum University in Chengdu
 ##### Conferences / Competitions
 
 - [TCCS-13-The 13th Trondheim CCS Conference][12] · Trondheim, Norway, 2025
-- [2025 Carbon Capture, Utilization and Storage GRC/GRS Conference][11] · Ventura, CA, United States, 2025
-- [NordNET PhD Anutumn School: Modeling Energy System Integration and Sustainable Transport][10] · Gothenburg, Sweden, 2024
-- [European Symposium on Computer Aided Process Engineering (ESCAPE34)][9] · Florence, Italy, 2024
-- [Brightway Autumn School: Open Approaches to Time in LCA][8] · Grosshöchstetten, Switzerland, 2023
-- [2023 Carbon Capture, Utilization and Storage GRC/GRS Conference][7] · Les Diablerets, Switzerland, 2023
+- [2025 CCUS GRC/GRS Conference][11] · Ventura, CA, United States, 2025
+- [NordNET PhD Anutumn School: Modeling Energy Systems][10] · Gothenburg, Sweden, 2024
+- [NordNET PhD Anutumn School: Modeling Energy Systems][10] · Brno, Cz
+- [ESCAPE34-PSE24 Conference][9] · Florence, Italy, 2024
+- [Autumn School: Open Approaches to Time in LCA][8] · Grosshöchstetten, Switzerland, 2023
+- [2023 CCUS GRC/GRS Conference][7] · Les Diablerets, Switzerland, 2023
 - [Particle][5] · Xiamen, 2020
 - [ADB][5] · On-line, 2020
 - [Starting up][4] · Beijing, 2019
