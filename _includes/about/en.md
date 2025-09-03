@@ -2,24 +2,25 @@ Hey, I am Pingping, Wang. Now, I am a PhD student at TU Wien, working in field o
 
 I am curious about the evolution and comparisons of different social-economic systems and human behaviour. It can help me better understand the fairness in decarbonization and sustainable development. Furthermore, I am also interested in quantitatively project the scenarios of future. 
 
-## Education
+### Education
 
-**Ph.D. in Process Systems Engineering**  
-TU Wien, Vienna, Austria  
-2022 – Present
+**Ph.D. in Sustainable Process Systems Engineering** (2022 – Present)  
+Technical University of Vienna (TU Wien) <br>
+Supervisor: [Stavros Papadokonstantakis](https://scholar.google.com/citations?hl=en&user=iILdo5cAAAAJ) <br>
+Vienna, Austria
 
-**Double M.Sc. in Chemical and Biochemical Engineering**  
-Chinese Academy of Science (UCAS), Beijing, China
-Technical University of Denmark (DTU), Denmark 
-Institute of Process Engineering (IPE), CAS
-2019 – 2022
+**Double M.Sc. in Chemical and Biochemical Engineering** (2019 – 2022)  
+Sino-Danish Center for Education and Research ([SDC](https://sdc.university/)) <br>
+Chinese Academy of Sciences (UCAS) & Technical University of Denmark (DTU) <br>
+Master thesis conducted at Institute of Process Engineering (IPE), CAS <br>
+Beijing, China
 
-**B.Sc. in Chemical Engineering**  
-Southwest Petroleum University, Chengdu, China 
-2015 – 2019
+**B.Sc. in Chemical Engineering** (2015 – 2019)  
+Southwest Petroleum University <br>
+Chengdu, China
 
 
-##### Conferences
+#####  Conferences
 
 - [TCCS-13-The 13th Trondheim CCS Conference][12] · Trondheim, Norway, 2025
 - [2025 CCUS GRC/GRS Conference][11] · Ventura, CA, United States, 2025
