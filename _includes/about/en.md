@@ -4,7 +4,7 @@ I am curious about the evolution and comparisons of different social-economic sy
 
 I grew up in a chemical industry city known as the "Oil City". My personal growth story also resolves around the chemical industry and chemical engineering. The chemical pollution and interest in chemistry that I have been exposed to since childhood have made me interested in this field since middle school. At that time, I believed that I could change the world through chemistry but create a world without so much pollution.
 
-I studied BSc, chemical engineering at Southwest Petroleum University in Chengdu. I had a very fulfilling four years, participating in and leading different student teams to win awards in many national and international extracurricular competitions. After participating in a Belt and Road Challenge Cup in Shanghai, I had the idea of studying abroad. 
+I studied BSc, chemical engineering at Southwest Petroleum University in Chengdu. I had a very fulfilling four years, participating in and leading different student teams to win awards in many national and international extracurricular competitions. After participating in a Belt and Road Challenge Cup in Shanghai, I had the idea of studying abroad. Then I got opportunties to study at DTU. 
 
 
 ##### Appearence
