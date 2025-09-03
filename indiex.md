@@ -26,34 +26,21 @@ Southwest Petroleum University <br>
 Chengdu, China
 
 
-#####  Conferences
+#### Conferences
 
-- [TCCS-13-The 13th Trondheim CCS Conference][12] · Trondheim, Norway, 2025
-- [2025 CCUS GRC/GRS Conference][11] · Ventura, CA, United States, 2025
-- [NordNET PhD Anutumn School: Modeling Energy Systems][10] · Gothenburg, Sweden, 2024
-- [NordNET PhD Anutumn School: Modeling Energy Systems][10] · Brno, Cz
-- [ESCAPE34-PSE24 Conference][9] · Florence, Italy, 2024
-- [Autumn School: Open Approaches to Time in LCA][8] · Grosshöchstetten, Switzerland, 2023
-- [2023 CCUS GRC/GRS Conference][7] · Les Diablerets, Switzerland, 2023
-- [The 11th Academic Annual Meeting of China Particle Society][6] · Xiamen, 2020
+- [TCCS-13-The 13th Trondheim CCS Conference](https://tccs.no/) · Trondheim, Norway, 2025
+- [2025 CCUS GRC/GRS Conference](https://www.grc.org/carbon-capture-utilization-and-storage-conference/2025/) · Ventura, CA, United States, 2025
+- [NordNET PhD Anutumn School: Modeling Energy Systems](https://csei.eu/event/nordnet-autumn-school-2024/) · Gothenburg, Sweden, 2024
+- [NordNET PhD Anutumn School: Modeling Energy Systems](https://csei.eu/event/nordnet-autumn-school-2024/) · Brno, Cz
+- [ESCAPE34-PSE24 Conference](https://www.aidic.it/escape34-pse24/) · Florence, Italy, 2024
+- [Autumn School: Open Approaches to Time in LCA](https://www.d-d-s.ch/schools/fall-23/index.html) · Grosshöchstetten, Switzerland, 2023
+- [2023 CCUS GRC/GRS Conference](https://www.grc.org/carbon-capture-utilization-and-storage-conference/2023/) · Les Diablerets, Switzerland, 2023
+- [The 11th Academic Annual Meeting of China Particle Society](https://www.csp.org.cn/) · Xiamen, 2020
 
 ##### Competitions
 
-- [Digital aginist COVID-19 Hackathon][5] · [ADB][4], 2020
+- [Digital aginist COVID-19 Hackathon](https://challenges.adb.org/en) · [ADB](https://challenges.adb.org/en), 2020
 - ["UCAS Cup" Innovation and Entrepreneurship][] · Beijing, 2019
-- [Reactor design][3] · Chengdu, 2018
-- [Chemical plant design][2] · Changsha, 2018
-- [One Belt and One Road Challenge Cup][1] · Shanghai, 2017
-
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: https://challenges.adb.org/en
-[5]: https://challenges.adb.org/en/challenges/new-normal-digitizing-waste-collection
-[6]: https://www.csp.org.cn/
-[7]: https://www.grc.org/carbon-capture-utilization-and-storage-conference/2023/
-[8]: https://www.d-d-s.ch/schools/fall-23/index.html
-[9]: https://www.aidic.it/escape34-pse24/
-[10]: https://csei.eu/event/nordnet-autumn-school-2024/
-[11]: https://www.grc.org/carbon-capture-utilization-and-storage-conference/2025/
-[12]: https://tccs.no/
+- [Reactor design](//huangxuan.me/2016/06/05/pwa-in-my-pov/) · Chengdu, 2018
+- [Chemical plant design](//huangxuan.me/2015/12/28/css-sucks-2015/) · Changsha, 2018
+- [One Belt and One Road Challenge Cup](//huangxuan.me/2015/07/09/js-module-7day/) · Shanghai, 2017
