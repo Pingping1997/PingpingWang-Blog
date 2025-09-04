@@ -12,7 +12,6 @@ I’m a committed supporter of open-source efforts in systems engineering, energ
 
 When I’m not in front of a screen, you’ll probably find me outdoors: climbing, playing tennis, cycling, swimming, reading/thinking, or enjoying food and music.
 ### Education
-
 **Ph.D. in Sustainable Process Systems Engineering** (2022 – Present, Vienna, Austria)  
 Technical University of Vienna (TU Wien) <br>
 Supervisor: [Stavros Papadokonstantakis](https://scholar.google.com/citations?hl=en&user=iILdo5cAAAAJ) <br>
@@ -27,13 +26,12 @@ Master thesis conducted at Institute of Process Engineering (IPE), CAS <br>
 **B.Sc. in Chemical Engineering** (2015 – 2019, Chengdu, China)  
 Southwest Petroleum University <br>
 
-
 ### Conferences
 
 - [TCCS-13-The 13th Trondheim CCS Conference](https://tccs.no/) · Trondheim, Norway, 2025
 - [2025 CCUS GRC/GRS Conference](https://www.grc.org/carbon-capture-utilization-and-storage-conference/2025/) · Ventura, CA, United States, 2025
 - [NordNET PhD Anutumn School: Modeling Energy Systems](https://csei.eu/event/nordnet-autumn-school-2024/) · Gothenburg, Sweden, 2024
-- [NordNET PhD Anutumn School: Modeling Energy Systems](https://csei.eu/event/nordnet-autumn-school-2024/) · Brno, Czech Republic, 2024
+- [Computer Aided Process Engineering Forum 2024 ](https://conferencespil.com/spil24/) · Brno, Czech Republic, 2024
 - [ESCAPE34-PSE24 Conference](https://www.aidic.it/escape34-pse24/) · Florence, Italy, 2024
 - [Autumn School: Open Approaches to Time in LCA](https://www.d-d-s.ch/schools/fall-23/index.html) · Grosshöchstetten, Switzerland, 2023
 - [2023 CCUS GRC/GRS Conference](https://www.grc.org/carbon-capture-utilization-and-storage-conference/2023/) · Les Diablerets, Switzerland, 2023
@@ -42,7 +40,7 @@ Southwest Petroleum University <br>
 #### Competitions
 
 - [Digital aginist COVID-19 Hackathon](https://challenges.adb.org/en) · [ADB](https://challenges.adb.org/en), 2020
-- ["UCAS Cup" Innovation and Entrepreneurship][] · Beijing, 2019
-- ["Evonik Cup" Chemical Reaction Engineering Model Design](//huangxuan.me/2016/06/05/pwa-in-my-pov/) · Chengdu, 2018
-- [National Chemical Engineering Design Competition](//huangxuan.me/2015/12/28/css-sucks-2015/) · Changsha, 2018
-- [One Belt and One Road International Challenge Cup](//huangxuan.me/2015/07/09/js-module-7day/) · Shanghai, 2017
+- ["UCAS Cup" Innovation and Entrepreneurship](https://english.ucas.ac.cn/) · Beijing, 2019
+- [National Chemical Reaction Engineering Model Design](https://i-chemreaeng.scu.edu.cn/) · Chengdu, 2018
+- [National Chemical Engineering Design Competition](https://www.ciesc.cn/site/term/28.html) · Changsha, 2018
+- [Challenge Cup Belt and Road International Special Competition](https://yidaiyilu.tiaozhanbei.net/) · Shanghai, 2017
