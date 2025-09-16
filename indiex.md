@@ -9,7 +9,7 @@ Hey, I’m Pingping Wang, currently pursuing a PhD at TU Wien (Vienna), where I 
 
 Beyond engineering, I’m deeply curious about the evolution of socio-economic systems and human behavior, especially in relation to fairness in decarbonization and sustainable development.
 
-I’m a committed supporter of open-source efforts in systems engineering, energy transition, and social & climate justice—and I’m a [Julia](https://julialang.org/)lover and user.
+I’m a committed supporter of open-source efforts in systems engineering, energy transition, and social & climate justice—and I’m a [Julia](https://julialang.org/) lover and user.
 
 When I’m not in front of a screen, you’ll probably find me outdoors: climbing, playing tennis, cycling, swimming, reading/thinking, or enjoying food and music.
 ### Education
@@ -27,7 +27,7 @@ conducted at Institute of Process Engineering (IPE), CAS <br>
 
 **B.Sc. in Chemical Engineering** (2015 – 2019, Chengdu, China)  
 Southwest Petroleum University <br>
-Bachlor Thesis: Computational fluid dynamic (CFD) simulation of FCC regenetor and coke combustion process
+Bachlor Thesis: Computational fluid dynamic (CFD) simulation of FCC regenetor and coke \\ combustion process
 
 ### Conferences
 
