@@ -27,7 +27,7 @@ conducted at Institute of Process Engineering (IPE), CAS <br>
 
 **B.Sc. in Chemical Engineering** (2015 – 2019, Chengdu, China)  
 Southwest Petroleum University <br>
-Bachlor Thesis: Computational fluid dynamic (CFD) simulation of FCC regenetor and coke \\ combustion process
+Bachlor Thesis: CFD simulation of FCC regenetor and coke combustion process
 
 ### Conferences
 

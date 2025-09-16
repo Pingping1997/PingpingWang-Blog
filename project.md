@@ -8,7 +8,6 @@ header-img: img/bg-winter.jpg
 
 ## 🚀 Research and Open Source Projects
 
-## 🚀 Research and Open Source Projects
 
 Here are some research, coding, and writing projects I'm working on or have completed:
 
@@ -59,7 +58,7 @@ Roadmap includes:
 - Julia Model
 </details>
 
-## 🛠️ Engineering and Entrepreneur Projects
+### 🛠️ Engineering and Entrepreneur Projects
 
 <details>
   <summary><strong>Cycle Doux (Plant-based beverage concept)</strong></summary>
