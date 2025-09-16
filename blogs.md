@@ -3,6 +3,7 @@ layout: page
 title: Blogs
 permalink: /blogs/
 description: "Personal blog posts"
+header-img: img/bg-little-universe.jpg 
 ---
 
 ## 📝 My Blog Posts

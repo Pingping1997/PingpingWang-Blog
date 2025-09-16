@@ -3,12 +3,13 @@ layout: page
 title: About
 description: "「Our free will is going to our destiny.」"
 permalink: /
+header-img: img/bg-walle.jpg 
 ---
 Hey, I’m Pingping Wang, currently pursuing a PhD at TU Wien (Vienna), where I work at the intersection of sustainability and process systems engineering. My research focuses on integrating carbon capture and storage/utilization (CCS/CCU) into current and future industrial infrastructures. I’m developing a prospective life cycle optimization framework to evaluate and support the deployment of CCS/CCU and carbon dioxide removal (CDR) technologies—aiming to mitigate CO₂ emissions from both heavy industry and the atmosphere.
 
 Beyond engineering, I’m deeply curious about the evolution of socio-economic systems and human behavior, especially in relation to fairness in decarbonization and sustainable development.
 
-I’m a committed supporter of open-source efforts in systems engineering, energy transition, and social & climate justice—and I’m always learning how to better contribute to these communities.
+I’m a committed supporter of open-source efforts in systems engineering, energy transition, and social & climate justice—and I’m a [Julia](https://julialang.org/)lover and user.
 
 When I’m not in front of a screen, you’ll probably find me outdoors: climbing, playing tennis, cycling, swimming, reading/thinking, or enjoying food and music.
 ### Education
@@ -20,11 +21,13 @@ Supervisor: [Stavros Papadokonstantakis](https://scholar.google.com/citations?hl
 **Double M.Sc. in Chemical and Biochemical Engineering** (2019 – 2022, Beijing, China)  
 Sino-Danish Center for Education and Research ([SDC](https://sdc.university/)) <br>
 Chinese Academy of Sciences (UCAS) & Technical University of Denmark (DTU) <br>
-Master thesis conducted at Institute of Process Engineering (IPE), CAS <br>
+Master thesis: On-line measurement of suspended solid particles in multi-phase reactors,\\
+conducted at Institute of Process Engineering (IPE), CAS <br>
 
 
 **B.Sc. in Chemical Engineering** (2015 – 2019, Chengdu, China)  
 Southwest Petroleum University <br>
+Bachlor Thesis: Computational fluid dynamic (CFD) simulation of FCC regenetor and coke combustion process
 
 ### Conferences
 
