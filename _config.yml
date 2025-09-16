@@ -1,7 +1,7 @@
 # Site settings
 title: Pingping's Blog
 SEOTitle: wpp的博客 | PingpingWang's Blog
-header-img: img/bg-winter.jpg
+header-img: img/bg-walle.jpg
 email: pingping1997w@gmail.com
 description: "这里是 @pingw 的个人博客，与你一起认识自我，探索世界 | 人生不设限"
 #keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
@@ -81,5 +81,25 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
+
 page-mathjax: false
 
+# -----------------------------
+# Per-section default headers
+# Override these per page/post with `header-img:` in front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      header-img: img/bg-litte-universe.jpg
+  - scope:
+      path: "projects"     # files under /projects/** will use this
+    values:
+      header-img: img/bg-winter.jpg
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      header-img: img/bg-walle.jpg
+# -----------------------------
