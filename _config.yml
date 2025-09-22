@@ -82,12 +82,26 @@ service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
 
+
 page-mathjax: false
+
+# Collections
+collections:
+  blogs:
+    output: true
+    permalink: /blogs/:name/
 
 # -----------------------------
 # Per-section default headers
 # Override these per page/post with `header-img:` in front matter
+# -----------------------------
 defaults:
+  - scope:
+      path: ""          # applies to all documents in the collection
+      type: "blogs"     # collection name
+    values:
+      layout: post
+      header-img: img/bg-little-universe.jpg
   - scope:
       path: ""
       type: "posts"
