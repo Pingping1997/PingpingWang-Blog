@@ -29,8 +29,9 @@ conducted at Institute of Process Engineering (IPE), CAS <br>
 Southwest Petroleum University <br>
 Bachlor Thesis: CFD simulation of FCC regenetor and coke combustion process
 
-### Conferences
+### Conferences 
 
+- [JuliaCon Local Paris 2025](https://juliacon.org/local/paris2025/)· Paris, France, 2025
 - [TCCS-13-The 13th Trondheim CCS Conference](https://tccs.no/) · Trondheim, Norway, 2025
 - [2025 CCUS GRC/GRS Conference](https://www.grc.org/carbon-capture-utilization-and-storage-conference/2025/) · Ventura, CA, United States, 2025
 - [NordNET PhD Anutumn School: Modeling Energy Systems](https://csei.eu/event/nordnet-autumn-school-2024/) · Gothenburg, Sweden, 2024
@@ -43,7 +44,8 @@ Bachlor Thesis: CFD simulation of FCC regenetor and coke combustion process
 #### Competitions
 
 - [Digital aginist COVID-19 Hackathon](https://challenges.adb.org/en) · [ADB](https://challenges.adb.org/en), 2020
+- [L’Oréal Brandstorm 2020](https://www.loreal.com/en/brandstorm/)
 - ["UCAS Cup" Innovation and Entrepreneurship](https://english.ucas.ac.cn/) · Beijing, 2019
-- [National Chemical Reaction Engineering Model Design](https://i-chemreaeng.scu.edu.cn/) · Chengdu, 2018
-- [National Chemical Engineering Design Competition](https://www.ciesc.cn/site/term/28.html) · Changsha, 2018
-- [Challenge Cup Belt and Road International Special Competition](https://yidaiyilu.tiaozhanbei.net/) · Shanghai, 2017
+- [National Chemical Reaction Engineering Model Design](https://i-chemreaeng.scu.edu.cn/) · 2nd Prize · Chengdu, 2018
+- [National Chemical Process Design Competition](https://www.ciesc.cn/site/term/28.html) · 1st Prize ·  Changsha, 2018
+- [Challenge Cup Belt and Road International Special Competition](https://yidaiyilu.tiaozhanbei.net/) · 1st Prize · Shanghai, 2017
