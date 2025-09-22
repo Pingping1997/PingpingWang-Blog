@@ -16,6 +16,8 @@ When I’m not in front of a screen, you’ll probably find me outdoors: climbin
 **Ph.D. in Sustainable Process Systems Engineering** (2022 – Present, Vienna, Austria)  
 Technical University of Vienna (TU Wien) <br>
 Supervisor: [Stavros Papadokonstantakis](https://scholar.google.com/citations?hl=en&user=iILdo5cAAAAJ) <br>
+PhD Topic: Integration of CCS/CCU into current and future industrial infrastructures <br>
+
 
 
 **Double M.Sc. in Chemical and Biochemical Engineering** (2019 – 2022, Beijing, China)  
@@ -31,7 +33,7 @@ Bachlor Thesis: CFD simulation of FCC regenetor and coke combustion process
 
 ### Conferences 
 
-- [JuliaCon Local Paris 2025](https://juliacon.org/local/paris2025/)· Paris, France, 2025
+- [JuliaCon Local Paris 2025](https://juliacon.org/local/paris2025/) · Paris, France, 2025
 - [TCCS-13-The 13th Trondheim CCS Conference](https://tccs.no/) · Trondheim, Norway, 2025
 - [2025 CCUS GRC/GRS Conference](https://www.grc.org/carbon-capture-utilization-and-storage-conference/2025/) · Ventura, CA, United States, 2025
 - [NordNET PhD Anutumn School: Modeling Energy Systems](https://csei.eu/event/nordnet-autumn-school-2024/) · Gothenburg, Sweden, 2024
@@ -44,7 +46,7 @@ Bachlor Thesis: CFD simulation of FCC regenetor and coke combustion process
 #### Competitions
 
 - [Digital aginist COVID-19 Hackathon](https://challenges.adb.org/en) · [ADB](https://challenges.adb.org/en), 2020
-- [L’Oréal Brandstorm 2020](https://www.loreal.com/en/brandstorm/)
+- [L’Oréal Brandstorm 2020](https://www.loreal.com/en/brandstorm/) · On-line, 2020
 - ["UCAS Cup" Innovation and Entrepreneurship](https://english.ucas.ac.cn/) · Beijing, 2019
 - [National Chemical Reaction Engineering Model Design](https://i-chemreaeng.scu.edu.cn/) · 2nd Prize · Chengdu, 2018
 - [National Chemical Process Design Competition](https://www.ciesc.cn/site/term/28.html) · 1st Prize ·  Changsha, 2018
