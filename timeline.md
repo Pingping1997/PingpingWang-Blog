@@ -125,133 +125,133 @@ HOW TO USE
   // Replace with your real milestones. Keep ISO dates (YYYY-MM-DD) for proper sorting.
   const events = [
     {
-      date: "2022-08-01",
+      date: "2022-08",
       title: "Started PhD & Journey in Vienna",
       location: "Vienna, AT",
       categories: ["PhD", "Journey"],
-      description: "xxx",
+      description: "",
       image: "/img/timeline/Vienna2022.jpg",
       alt: "Vienna Donau"
     },
      {
-      date: "2022-11-01",
+      date: "2022-11",
       title: "Visited DTU & Denmark finally",
       location: "Copenhagen, DK",
       categories: ["Travel", "Journey"],
-      description: "xxx",
+      description: "",
       image: "/img/timeline/Vienna2022.jpg",
       alt: "Vienna Donau"
     },
       {
-      date: "2023-03-01",
+      date: "2023-03",
       title: "Completed my first top-rope climbing lessons",
       location: "Vienna, AT",
       categories: ["Sports", "Personal","Journey"],
-      description: "xxx",
+      description: "",
       image: "/img/timeline/Vienna2022.jpg",
       alt: "Vienna Donau"
     },
     {
-      date: "2023-05-01",
+      date: "2023-05",
       title: "First GRC & GRS Conference about CCUS",
       location: "Les Diablerets, CH",
       categories: ["Conference", "Research","PhD","Journey"],
-      description: "xxx",
+      description: "",
       image: "/img/post-bg-halting.jpg",
       alt: "Presenter at a conference podium"
     },
     {
-      date: "2023-07-01",
+      date: "2023-07",
       title: "First Summer trips in Italy and Basque",
       location: "Italy",
       categories: ["Travel","Personal","Journey"],
-      description: "xxx",
+      description: "",
       image: "/img/post-bg-web.jpg",
       alt: "Trip in Italy"
     },
     {
-      date: "2023-10-01",
+      date: "2023-10",
       title: "Autumn School about Brightway & LCA ",
       location: "Energy & AI (under review)",
       categories: ["PhD", "Studying","Research","Journey"],
-      description: "xxx",
+      description: "",
       image: "/img/post-bg-2015.jpg",
       alt: "Working photo"
     },
     {
-      date: "2024-01-01",
+      date: "2024-01",
       title: "Travel in China with my boyfriend",
       location: "Beijing, CN",
       categories: ["Travel","Personal", "Journey"],
-      description: "xxx",
+      description: "",
       image: "/img/post-bg-alitrip.jpg",
       alt: "Selfie in Beijing"
     },
     {
-      date: "2024-04-01",
+      date: "2024-04",
       title: "Completed review paper about prospective assessments",
       location: "doi",
       categories: ["Publications", "PhD","Research","Journey"],
-      description: "xxx",
+      description: "",
       image: "/img/post-bg-digital-native.jpg",
       alt: "arXiv logo on a screen"
-    }
+    },
     {
-      date: "2024-06-01",
+      date: "2024-06",
       title: "First presentation at ESCAPE34",
       location: "Florence, IT",
       categories: ["Publications", "PhD","Research","Conference","Journey"],
-      description: "xxx",
+      description: "",
       image: "/img/post-bg-digital-native.jpg",
       alt: "arXiv logo on a screen"
-    }
+    },
     {
-      date: "2024-08-01",
+      date: "2024-08",
       title: "Bornout and 'Lost'",
       location: "Vienna, AT",
-      categories: ["Personal","PhD","Journey"],
-      description: "xxx",
+      categories: ["Personal","PhD",,"Bornout","Journey"],
+      description: "",
       image: "/img/post-bg-digital-native.jpg",
       alt: "arXiv logo on a screen"
-    }
+    },
     {
-      date: "2024-10-01",
+      date: "2024-10",
       title: "Autumn School about Energy systems modelling",
       location: "Gothenburg, SE",
       categories: ["Studying","PhD","Journey"],
-      description: "xxx",
+      description: "",
       image: "/img/post-bg-digital-native.jpg",
       alt: "arXiv logo on a screen"
-    }
+    },
     {
-      date: "2024-02-01",
+      date: "2025-02",
       title: "Completed my skiing lessons at Alps",
       location: "Bad Gastein, AT",
       categories: ["Sports","Personal","Journey"],
-      description: "xxx",
+      description: "",
       image: "/img/post-bg-digital-native.jpg",
       alt: "arXiv logo on a screen"
-    }
+    },
     {
-      date: "2024-04-01",
+      date: "2025-04",
       title: "First Conference and Trip in California",
-      location: "Palm Spring, CA",
+      location: "Palm Springs, CA",
       categories: ["PhD","Conference","Personal","Journey"],
-      description: "xxx",
+      description: "",
       image: "/img/timeline/USA2025.jpg",
       alt: "arXiv logo on a screen"
-    }
+    },
     {
-      date: "2024-08-01",
+      date: "2025-08",
       title: "Summer trip in Italy and Rebuilding",
       location: "Sardinia, IT",
       categories: ["Personal","Journey"],
-      description: "xxx",
+      description: "",
       image: "/img/post-bg-digital-native.jpg",
       alt: "arXiv logo on a screen"
-    }
+    },
      {
-      date: "2024-10-01",
+      date: "2025-10",
       title: "JuliaCon Paris and trip",
       location: "Paris, FR",
       categories: ["Conference","Travel","Personal","Journey"],
