@@ -125,7 +125,7 @@ HOW TO USE
   // Replace with your real milestones. Keep ISO dates (YYYY-MM-DD) for proper sorting.
   const events = [
     {
-      date: "2022-08",
+      date: "2022-08-01",
       title: "Started PhD & Journey in Vienna",
       location: "Vienna, AT",
       categories: ["PhD", "Journey"],
@@ -134,7 +134,7 @@ HOW TO USE
       alt: "Vienna Donau"
     },
      {
-      date: "2022-11",
+      date: "2022-11-01",
       title: "Visited DTU & Denmark finally",
       location: "Copenhagen, DK",
       categories: ["Travel", "Journey"],
@@ -143,7 +143,7 @@ HOW TO USE
       alt: "Vienna Donau"
     },
       {
-      date: "2023-03",
+      date: "2023-03-01",
       title: "Completed my first top-rope climbing lessons",
       location: "Vienna, AT",
       categories: ["Sports", "Personal","Journey"],
@@ -152,7 +152,7 @@ HOW TO USE
       alt: "Vienna Donau"
     },
     {
-      date: "2023-05",
+      date: "2023-05-01",
       title: "First GRC & GRS Conference about CCUS",
       location: "Les Diablerets, CH",
       categories: ["Conference", "Research","PhD","Journey"],
@@ -161,7 +161,7 @@ HOW TO USE
       alt: "Presenter at a conference podium"
     },
     {
-      date: "2023-07",
+      date: "2023-07-01",
       title: "First Summer trips in Italy and Basque",
       location: "Italy",
       categories: ["Travel","Personal","Journey"],
@@ -170,7 +170,7 @@ HOW TO USE
       alt: "Trip in Italy"
     },
     {
-      date: "2023-10",
+      date: "2023-10-01",
       title: "Autumn School about Brightway & LCA ",
       location: "Energy & AI (under review)",
       categories: ["PhD", "Studying","Research","Journey"],
@@ -179,7 +179,7 @@ HOW TO USE
       alt: "Working photo"
     },
     {
-      date: "2024-01",
+      date: "2024-01-01",
       title: "Travel in China with my boyfriend",
       location: "Beijing, CN",
       categories: ["Travel","Personal", "Journey"],
@@ -188,7 +188,7 @@ HOW TO USE
       alt: "Selfie in Beijing"
     },
     {
-      date: "2024-04",
+      date: "2024-04-01",
       title: "Completed review paper about prospective assessments",
       location: "doi",
       categories: ["Publications", "PhD","Research","Journey"],
@@ -197,7 +197,7 @@ HOW TO USE
       alt: "arXiv logo on a screen"
     }
     {
-      date: "2024-06",
+      date: "2024-06-01",
       title: "First presentation at ESCAPE34",
       location: "Florence, IT",
       categories: ["Publications", "PhD","Research","Conference","Journey"],
@@ -206,7 +206,7 @@ HOW TO USE
       alt: "arXiv logo on a screen"
     }
     {
-      date: "2024-08",
+      date: "2024-08-01",
       title: "Bornout and 'Lost'",
       location: "Vienna, AT",
       categories: ["Personal","PhD","Journey"],
@@ -215,7 +215,7 @@ HOW TO USE
       alt: "arXiv logo on a screen"
     }
     {
-      date: "2024-10",
+      date: "2024-10-01",
       title: "Autumn School about Energy systems modelling",
       location: "Gothenburg, SE",
       categories: ["Studying","PhD","Journey"],
@@ -224,7 +224,7 @@ HOW TO USE
       alt: "arXiv logo on a screen"
     }
     {
-      date: "2024-02",
+      date: "2024-02-01",
       title: "Completed my skiing lessons at Alps",
       location: "Bad Gastein, AT",
       categories: ["Sports","Personal","Journey"],
@@ -233,7 +233,7 @@ HOW TO USE
       alt: "arXiv logo on a screen"
     }
     {
-      date: "2024-04",
+      date: "2024-04-01",
       title: "First Conference and Trip in California",
       location: "Palm Spring, CA",
       categories: ["PhD","Conference","Personal","Journey"],
@@ -242,7 +242,7 @@ HOW TO USE
       alt: "arXiv logo on a screen"
     }
     {
-      date: "2024-08",
+      date: "2024-08-01",
       title: "Summer trip in Italy and Rebuilding",
       location: "Sardinia, IT",
       categories: ["Personal","Journey"],
@@ -251,7 +251,7 @@ HOW TO USE
       alt: "arXiv logo on a screen"
     }
      {
-      date: "2024-10",
+      date: "2024-10-01",
       title: "JuliaCon Paris and trip",
       location: "Paris, FR",
       categories: ["Conference","Travel","Personal","Journey"],
