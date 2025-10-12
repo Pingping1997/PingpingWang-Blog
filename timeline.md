@@ -4,21 +4,14 @@ title: Timeline
 permalink: /timeline/
 description: "PhD journey & life milestones"
 # Optional: uncomment if your theme supports header images
-header-img: img/bg-walle.jpg 
+header-img: img/bg-walle.jpg
 ---
 
 <!--
 HOW TO USE
-1) Save this file as timeline.html (or timeline.md) inside your Jekyll site.
-2) Adjust the front matter above to match your theme (e.g., layout: page/post).
-3) Replace events[] below with your real milestones.
-4) (Optional) Move images into /img/timeline/... and update paths accordingly.
-
-Notes
-- This is a self-contained page: no external CSS/JS needed.
-- It supports filtering by category (PhD, Research, Publications, Teaching, Travel, Sports, Personal...) and free‑text search.
-- It auto-sorts by date (newest first) and groups by year.
-- Deep-linking: you can use ?cat=PhD or ?q=paper to pre-filter/search.
+- Edit the events[] array below with your milestones.
+- Dates can be "YYYY", "YYYY-MM", or "YYYY-MM-DD".
+- Display shows "YYYY-MM"; sorting groups by year.
 -->
 
 <style>
@@ -268,15 +261,34 @@ Notes
     }
   ];
 
-  // Default categories available as filter chips. Add/remove to match your needs.
-  const defaultChips = ["All", "Journey","PhD", "Research", "Publications", "Conference", "Studying","Workshop","Travel", "Sports","Personal", "Buronout"];
+  // Default categories available as filter chips.
+  const defaultChips = ["All", "Journey", "PhD", "Research", "Publications", "Conference", "Studying", "Workshop", "Travel", "Sports", "Personal", "Burnout"];
 
   // ===== 2) Utility functions =====
-  const qs = (sel, el=document) => el.querySelector(sel);
-  const qsa = (sel, el=document) => Array.from(el.querySelectorAll(sel));
-  const fmtDate = (iso) => new Date(iso).toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: '2-digit' });
-  const byDateDesc = (a,b) => new Date(b.date) - new Date(a.date);
-  const getYear = (iso) => new Date(iso).getFullYear();
+  const qs  = (sel, el = document) => el.querySelector(sel);
+  const qsa = (sel, el = document) => Array.from(el.querySelectorAll(sel));
+
+  // Robust date parsing + YYYY-MM display
+  function parseDateParts(iso) {
+    // Supports YYYY, YYYY-M, YYYY-MM, YYYY-MM-D, YYYY-MM-DD
+    const m = String(iso).trim().match(/^(\d{4})(?:-(\d{1,2})(?:-(\d{1,2}))?)?$/);
+    if (!m) return { y: NaN, m: NaN, d: NaN };
+    return { y: +m[1], m: +(m[2] || 1), d: +(m[3] || 1) };
+  }
+  function toDate(iso) {
+    const { y, m, d } = parseDateParts(iso);
+    return isNaN(y) ? new Date(iso) : new Date(y, (m || 1) - 1, d || 1);
+  }
+  const pad2 = (n) => String(n).padStart(2, "0");
+  function fmtYYYYMM(iso) {
+    const { y, m } = parseDateParts(iso);
+    if (isNaN(y)) return String(iso);
+    return `${y}-${pad2(m || 1)}`;
+  }
+
+  const fmtDate    = fmtYYYYMM;                   // show "YYYY-MM"
+  const byDateDesc = (a, b) => toDate(b.date) - toDate(a.date);
+  const getYear    = (iso) => toDate(iso).getFullYear();
 
   // Parse URL params for deep-linking
   const url = new URL(window.location);
@@ -316,7 +328,6 @@ Notes
   // ===== 5) Lightbox =====
   const lb = qs('#lightbox');
   lb.addEventListener('click', () => { lb.style.display = 'none'; lb.setAttribute('aria-hidden', 'true'); });
-
   function openLightbox(src, alt) {
     const img = lb.querySelector('img');
     img.src = src; img.alt = alt || '';
@@ -399,7 +410,6 @@ Notes
       }
 
       colR.appendChild(card);
-
       item.appendChild(colL);
       item.appendChild(colR);
       root.appendChild(item);
