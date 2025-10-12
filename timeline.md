@@ -136,7 +136,7 @@ Notes
       title: "Started PhD & Journey in Vienna",
       location: "Vienna, AT",
       categories: ["PhD", "Journey"],
-      description: "",
+      description: "xxx",
       image: "/img/timeline/Vienna2022.jpg",
       alt: "Vienna Donau"
     },
@@ -145,7 +145,7 @@ Notes
       title: "Visited DTU & Denmark finally",
       location: "Copenhagen, DK",
       categories: ["Travel", "Journey"],
-      description: "",
+      description: "xxx",
       image: "/img/timeline/Vienna2022.jpg",
       alt: "Vienna Donau"
     },
@@ -154,7 +154,7 @@ Notes
       title: "Completed my first top-rope climbing lessons",
       location: "Vienna, AT",
       categories: ["Sports", "Personal","Journey"],
-      description: "",
+      description: "xxx",
       image: "/img/timeline/Vienna2022.jpg",
       alt: "Vienna Donau"
     },
@@ -163,7 +163,7 @@ Notes
       title: "First GRC & GRS Conference about CCUS",
       location: "Les Diablerets, CH",
       categories: ["Conference", "Research","PhD","Journey"],
-      description: "",
+      description: "xxx",
       image: "/img/post-bg-halting.jpg",
       alt: "Presenter at a conference podium"
     },
@@ -172,7 +172,7 @@ Notes
       title: "First Summer trips in Italy and Basque",
       location: "Italy",
       categories: ["Travel","Personal","Journey"],
-      description: "",
+      description: "xxx",
       image: "/img/post-bg-web.jpg",
       alt: "Trip in Italy"
     },
@@ -181,7 +181,7 @@ Notes
       title: "Autumn School about Brightway & LCA ",
       location: "Energy & AI (under review)",
       categories: ["PhD", "Studying","Research","Journey"],
-      description: "",
+      description: "xxx",
       image: "/img/post-bg-2015.jpg",
       alt: "Working photo"
     },
@@ -190,7 +190,7 @@ Notes
       title: "Travel in China with my boyfriend",
       location: "Beijing, CN",
       categories: ["Travel","Personal", "Journey"],
-      description: "",
+      description: "xxx",
       image: "/img/post-bg-alitrip.jpg",
       alt: "Selfie in Beijing"
     },
@@ -199,7 +199,7 @@ Notes
       title: "Completed review paper about prospective assessments",
       location: "doi",
       categories: ["Publications", "PhD","Research","Journey"],
-      description: "",
+      description: "xxx",
       image: "/img/post-bg-digital-native.jpg",
       alt: "arXiv logo on a screen"
     }
@@ -208,7 +208,7 @@ Notes
       title: "First presentation at ESCAPE34",
       location: "Florence, IT",
       categories: ["Publications", "PhD","Research","Conference","Journey"],
-      description: "",
+      description: "xxx",
       image: "/img/post-bg-digital-native.jpg",
       alt: "arXiv logo on a screen"
     }
@@ -217,7 +217,7 @@ Notes
       title: "Bornout and 'Lost'",
       location: "Vienna, AT",
       categories: ["Personal","PhD","Journey"],
-      description: "",
+      description: "xxx",
       image: "/img/post-bg-digital-native.jpg",
       alt: "arXiv logo on a screen"
     }
@@ -226,7 +226,7 @@ Notes
       title: "Autumn School about Energy systems modelling",
       location: "Gothenburg, SE",
       categories: ["Studying","PhD","Journey"],
-      description: "",
+      description: "xxx",
       image: "/img/post-bg-digital-native.jpg",
       alt: "arXiv logo on a screen"
     }
@@ -235,7 +235,7 @@ Notes
       title: "Completed my skiing lessons at Alps",
       location: "Bad Gastein, AT",
       categories: ["Sports","Personal","Journey"],
-      description: "",
+      description: "xxx",
       image: "/img/post-bg-digital-native.jpg",
       alt: "arXiv logo on a screen"
     }
@@ -244,7 +244,7 @@ Notes
       title: "First Conference and Trip in California",
       location: "Palm Spring, CA",
       categories: ["PhD","Conference","Personal","Journey"],
-      description: "",
+      description: "xxx",
       image: "/img/timeline/USA2025.jpg",
       alt: "arXiv logo on a screen"
     }
@@ -253,7 +253,7 @@ Notes
       title: "Summer trip in Italy and Rebuilding",
       location: "Sardinia, IT",
       categories: ["Personal","Journey"],
-      description: "",
+      description: "xxx",
       image: "/img/post-bg-digital-native.jpg",
       alt: "arXiv logo on a screen"
     }
@@ -262,7 +262,7 @@ Notes
       title: "JuliaCon Paris and trip",
       location: "Paris, FR",
       categories: ["Conference","Travel","Personal","Journey"],
-      description: "",
+      description: "xxx",
       image: "/img/post-bg-digital-native.jpg",
       alt: "arXiv logo on a screen"
     }
