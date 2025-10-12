@@ -132,63 +132,144 @@ Notes
   // Replace with your real milestones. Keep ISO dates (YYYY-MM-DD) for proper sorting.
   const events = [
     {
-      date: "2021-10-01",
-      title: "Started PhD in Process Systems Engineering",
-      location: "TU Wien · Vienna, AT",
-      categories: ["PhD", "Research"],
-      description: "Joined the PSE group focusing on CCS/CCU systems, life cycle optimization, and emerging DAC pathways.",
-      image: "/img/post-bg-dreamer.jpg",
-      alt: "TU Wien main building entrance"
+      date: "2022-08",
+      title: "Started PhD & Journey in Vienna",
+      location: "Vienna, AT",
+      categories: ["PhD", "Journey"],
+      description: "",
+      image: "/img/timeline/Vienna2022.jpg",
+      alt: "Vienna Donau"
+    },
+     {
+      date: "2022-11",
+      title: "Visited DTU & Denmark finally",
+      location: "Copenhagen, DK",
+      categories: ["Travel", "Journey"],
+      description: "",
+      image: "/img/timeline/Vienna2022.jpg",
+      alt: "Vienna Donau"
+    },
+      {
+      date: "2023-03",
+      title: "Completed my first top-rope climbing lessons",
+      location: "Vienna, AT",
+      categories: ["Sports", "Personal","Journey"],
+      description: "",
+      image: "/img/timeline/Vienna2022.jpg",
+      alt: "Vienna Donau"
     },
     {
-      date: "2022-06-14",
-      title: "First Conference Talk on CCS Optimization",
-      location: "Trondheim, NO · TCCS",
-      categories: ["Conference", "Research"],
-      description: "Presented a multi-period MILP optimizing CCS value chains under policy scenarios; received strong feedback.",
+      date: "2023-05",
+      title: "First GRC & GRS Conference about CCUS",
+      location: "Les Diablerets, CH",
+      categories: ["Conference", "Research","PhD","Journey"],
+      description: "",
       image: "/img/post-bg-halting.jpg",
       alt: "Presenter at a conference podium"
     },
     {
-      date: "2023-03-01",
-      title: "Teaching Assistant · Optimization Methods",
-      location: "TU Wien",
-      categories: ["Teaching"],
-      description: "Led lab sessions on JuMP and Python for process optimization; revamped examples and assignments.",
+      date: "2023-07",
+      title: "First Summer trips in Italy and Basque",
+      location: "Italy",
+      categories: ["Travel","Personal","Journey"],
+      description: "",
       image: "/img/post-bg-web.jpg",
-      alt: "Students coding in a computer lab"
+      alt: "Trip in Italy"
     },
     {
-      date: "2023-11-20",
-      title: "Journal Article Submitted",
+      date: "2023-10",
+      title: "Autumn School about Brightway & LCA ",
       location: "Energy & AI (under review)",
-      categories: ["Publications", "Research"],
-      description: "Prospective LCA + optimization for CCS integration in Austrian cement industry; code & data shared openly.",
+      categories: ["PhD", "Studying","Research","Journey"],
+      description: "",
       image: "/img/post-bg-2015.jpg",
-      alt: "Open laptop with LaTeX on screen"
+      alt: "Working photo"
     },
     {
-      date: "2024-07-02",
-      title: "Poster Award · DAC Heat Integration",
-      location: "GRC/GRS Carbon Capture · Ventura, CA",
-      categories: ["Awards", "Research"],
-      description: "Recognized for a poster on integrating DAC with data center waste heat and flexible operations.",
+      date: "2024-01",
+      title: "Travel in China with my boyfriend",
+      location: "Beijing, CN",
+      categories: ["Travel","Personal", "Journey"],
+      description: "",
       image: "/img/post-bg-alitrip.jpg",
-      alt: "Poster session with attendees"
+      alt: "Selfie in Beijing"
     },
     {
-      date: "2025-02-10",
-      title: "Preprint Released · CO₂ Pipeline Planning under Uncertainty",
-      location: "arXiv",
-      categories: ["Publications", "Research"],
-      description: "Introduced a cooperative game-theory model for tariff design in Danish CCS clusters; code in Julia.",
+      date: "2024-04",
+      title: "Completed review paper about prospective assessments",
+      location: "doi",
+      categories: ["Publications", "PhD","Research","Journey"],
+      description: "",
+      image: "/img/post-bg-digital-native.jpg",
+      alt: "arXiv logo on a screen"
+    }
+    {
+      date: "2024-06",
+      title: "First presentation at ESCAPE34",
+      location: "Florence, IT",
+      categories: ["Publications", "PhD","Research","Conference","Journey"],
+      description: "",
+      image: "/img/post-bg-digital-native.jpg",
+      alt: "arXiv logo on a screen"
+    }
+    {
+      date: "2024-08",
+      title: "Bornout and 'Lost'",
+      location: "Vienna, AT",
+      categories: ["Personal","PhD","Journey"],
+      description: "",
+      image: "/img/post-bg-digital-native.jpg",
+      alt: "arXiv logo on a screen"
+    }
+    {
+      date: "2024-10",
+      title: "Autumn School about Energy systems modelling",
+      location: "Gothenburg, SE",
+      categories: ["Studying","PhD","Journey"],
+      description: "",
+      image: "/img/post-bg-digital-native.jpg",
+      alt: "arXiv logo on a screen"
+    }
+    {
+      date: "2024-02",
+      title: "Completed my skiing lessons at Alps",
+      location: "Bad Gastein, AT",
+      categories: ["Sports","Personal","Journey"],
+      description: "",
+      image: "/img/post-bg-digital-native.jpg",
+      alt: "arXiv logo on a screen"
+    }
+    {
+      date: "2024-04",
+      title: "First Conference and Trip in California",
+      location: "Palm Spring, CA",
+      categories: ["PhD","Conference","Personal","Journey"],
+      description: "",
+      image: "/img/timeline/USA2025.jpg",
+      alt: "arXiv logo on a screen"
+    }
+    {
+      date: "2024-08",
+      title: "Summer trip in Italy and Rebuilding",
+      location: "Sardinia, IT",
+      categories: ["Personal","Journey"],
+      description: "",
+      image: "/img/post-bg-digital-native.jpg",
+      alt: "arXiv logo on a screen"
+    }
+     {
+      date: "2024-10",
+      title: "JuliaCon Paris and trip",
+      location: "Paris, FR",
+      categories: ["Conference","Travel","Personal","Journey"],
+      description: "",
       image: "/img/post-bg-digital-native.jpg",
       alt: "arXiv logo on a screen"
     }
   ];
 
   // Default categories available as filter chips. Add/remove to match your needs.
-  const defaultChips = ["All", "PhD", "Research", "Publications", "Teaching", "Conference", "Awards", "Travel", "Sports", "Personal"];
+  const defaultChips = ["All", "Journey","PhD", "Research", "Publications", "Conference", "Studying","Workshop","Travel", "Sports","Personal", "Buronout"];
 
   // ===== 2) Utility functions =====
   const qs = (sel, el=document) => el.querySelector(sel);
