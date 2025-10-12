@@ -23,7 +23,7 @@ PhD Topic: Integration of CCS/CCU into current and future industrial infrastruct
 **Double M.Sc. in Chemical and Biochemical Engineering** (2019 – 2022, Beijing, China)  
 Sino-Danish Center for Education and Research ([SDC](https://sdc.university/)) <br>
 Chinese Academy of Sciences (UCAS) & Technical University of Denmark (DTU) <br>
-Master thesis: On-line measurement of suspended solid particles in multi-phase reactors,\\
+Master Thesis: On-line measurement of suspended solid particles in multi-phase reactors,\\
 conducted at Institute of Process Engineering (IPE), CAS <br>
 
 
