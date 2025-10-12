@@ -112,10 +112,6 @@ defaults:
     values:
       header-img: img/bg-winter.jpg
   - scope:
-      path: "about"
-    values:
-      header-img: img/bg-summer.jpg
-  - scope:
       path: "Timeline"
     values:
       header-img: img/bg-walle.jpg
