@@ -4,7 +4,7 @@ title: Timeline
 permalink: /timeline/
 description: "PhD journey & life milestones"
 # Optional: uncomment if your theme supports header images
-header-img: img/bg-pingping.jpg
+header-img: img/bg-pingping2.jpg
 ---
 
 <!--

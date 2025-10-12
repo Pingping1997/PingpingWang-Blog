@@ -3,7 +3,7 @@ layout: page
 title: About
 description: "「Our free will is going to our destiny.」"
 permalink: /
-header-img: img/bg-pingping.jpg 
+header-img: img/bg-pingping2.jpg 
 ---
 Hey, I’m Pingping Wang, currently pursuing a PhD at TU Wien (Vienna), where I work at the intersection of sustainability and process systems engineering. My research focuses on integrating carbon capture and storage/utilization (CCS/CCU) into current and future industrial infrastructures. I’m developing a prospective life cycle optimization framework to evaluate and support the deployment of CCS/CCU and carbon dioxide removal (CDR) technologies—aiming to mitigate CO₂ emissions from both heavy industry and the atmosphere.
 
